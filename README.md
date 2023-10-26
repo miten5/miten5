@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @miten5
-- 👀 I’m interested in making new project in Python and Laravel.
+- 👀 I’m interested in making new project in Python, Java, Node and Laravel.
 - 🌱 I’m currently learning React and Python.
 - 💞️ I’m looking to collaborate on personal project, kindly contact me.
 - 📫 How to reach me patelmit3n@gmail.com
